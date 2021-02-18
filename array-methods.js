@@ -98,3 +98,5 @@ const ticketPriceTotal = runners.reduce(function(accumulator, currentValue) {
 // Problem 2
 
 // Problem 3
+
+//  I did not get the first question above.
